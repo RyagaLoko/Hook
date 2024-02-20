@@ -1,0 +1,36 @@
+﻿  dllmain.cpp
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Character\Generic.h(26,7): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file '/dllmain.cpp')
+  C:\Users\tomad\Documents\GitHub\srvhook-2016\Character\Generic.h(26,7):
+  This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Character\Generic.h(45,17): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file '/dllmain.cpp')
+  C:\Users\tomad\Documents\GitHub\srvhook-2016\Character\Generic.h(45,17):
+  This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Character\Generic.h(472,29): warning C4359: 'PROTO_NC_INSTANCE_DUNGEON_RANK_ACK': Alignment specifier is less than actual alignment (8), and will be ignored.
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Character\Generic.h(507,22): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file '/dllmain.cpp')
+  C:\Users\tomad\Documents\GitHub\srvhook-2016\Character\Generic.h(507,22):
+  This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Character\Generic.h(560,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file '/dllmain.cpp')
+  C:\Users\tomad\Documents\GitHub\srvhook-2016\Character\Generic.h(560,25):
+  This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Character\Generic.h(587,33): warning C4359: 'CSendPacket::PACKET_SIZE1': Alignment specifier is less than actual alignment (2), and will be ignored.
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Character\Generic.h(593,33): warning C4359: 'CSendPacket::PACKET_SIZE2': Alignment specifier is less than actual alignment (2), and will be ignored.
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Character\dllmain.cpp(25,17): warning C4244: '=': conversion from 'time_t' to 'long', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+detours.lib(detours.obj) : warning LNK4099: PDB '' was not found with 'detours.lib(detours.obj)' or at ''; linking object as if no debug info
+detours.lib(disasm.obj) : warning LNK4099: PDB '' was not found with 'detours.lib(disasm.obj)' or at ''; linking object as if no debug info
+  Character.vcxproj -> C:\Users\tomad\Documents\GitHub\srvhook-2016\Debug\Character.dll

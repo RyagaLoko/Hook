@@ -1,0 +1,2 @@
+﻿HookScript.obj : error LNK2019: unresolved external symbol _luaL_openselectedlibs referenced in function "public: void __thiscall HookScript::Load(char const *)" (?Load@HookScript@@QAEXPBD@Z)
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Debug\WorldManager.dll : fatal error LNK1120: 1 unresolved externals

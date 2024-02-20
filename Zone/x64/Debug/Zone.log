@@ -1,0 +1,77 @@
+﻿  pch.cpp
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Include\detours.h(7,51): error C2429: language feature 'terse static assert' requires compiler flag '/std:c++17'
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(6,30): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(17,40): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(28,50): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(39,60): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(50,70): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(61,80): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(72,30): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(83,40): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(94,50): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(105,60): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(116,70): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(127,80): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(138,90): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(149,100): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(160,110): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(171,120): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(182,131): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(193,142): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(204,153): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(215,164): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(226,35): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(234,42): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(241,52): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(248,62): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(255,72): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(262,82): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(269,92): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(276,102): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(283,112): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(290,19): error C2485: 'naked': unrecognized extended attribute
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(291,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(292,3): error C2065: 'mov': undeclared identifier
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(292,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(292,7): error C2065: 'eax': undeclared identifier
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(292,17): error C2143: syntax error: missing ']' before '+'
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(292,17): error C3481: 'esp': lambda capture variable not found
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\Templates.hpp(292,17): error C3260: '+': skipping unexpected token(s) before lambda body
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(124,1): error C2144: syntax error: 'char' should be preceded by ';'
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(124,21): error C2267: 'rstrip': static functions with block scope are illegal
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(124,21): error C2601: 'rstrip': local function definitions are illegal
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(133,21): error C2267: 'lskip': static functions with block scope are illegal
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(133,21): error C2601: 'lskip': local function definitions are illegal
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(143,21): error C2267: 'find_chars_or_comment': static functions with block scope are illegal
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(143,21): error C2601: 'find_chars_or_comment': local function definitions are illegal
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(161,21): error C2267: 'strncpy0': static functions with block scope are illegal
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(161,21): error C2601: 'strncpy0': local function definitions are illegal
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(169,12): error C7524: 'inline' specifier cannot appear on a block-scope declaration or non-static data member
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(169,29): error C2065: 'ini_reader': undeclared identifier
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(169,40): error C2146: syntax error: missing ')' before identifier 'reader'
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(171,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(196,39): error C2065: 'stream': undeclared identifier
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(196,12): error C3861: 'reader': identifier not found
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(225,26): error C2065: 'user': undeclared identifier
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(225,18): error C3861: 'handler': identifier not found
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(258,30): error C2065: 'user': undeclared identifier
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(258,22): error C3861: 'handler': identifier not found
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(277,17): error C2440: 'return': cannot convert from 'int' to 'void *'
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(277,12): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(281,39): error C2061: syntax error: identifier 'ini_handler'
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(281,12): error C2601: 'ini_parse_file': local function definitions are illegal
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(287,44): error C2061: syntax error: identifier 'ini_handler'
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(287,12): error C2601: 'ini_parse': local function definitions are illegal
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(376,19): error C2601: 'MemberFuncToPtr::INIReader::INIReader': local function definitions are illegal
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(381,19): error C2601: 'MemberFuncToPtr::INIReader::INIReader': local function definitions are illegal
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(386,23): error C2601: 'MemberFuncToPtr::INIReader::ParseError': local function definitions are illegal
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(391,48): error C2601: 'MemberFuncToPtr::INIReader::Sections': local function definitions are illegal
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(396,31): error C2601: 'MemberFuncToPtr::INIReader::Get': local function definitions are illegal
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(402,31): error C2601: 'MemberFuncToPtr::INIReader::Get': local function definitions are illegal
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(408,24): error C2601: 'MemberFuncToPtr::INIReader::GetInteger': local function definitions are illegal
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(418,26): error C2601: 'MemberFuncToPtr::INIReader::GetReal': local function definitions are illegal
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(427,24): error C2601: 'MemberFuncToPtr::INIReader::GetBoolean': local function definitions are illegal
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(440,31): error C2601: 'MemberFuncToPtr::INIReader::MakeKey': local function definitions are illegal
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\INIFile.h(448,23): error C2601: 'MemberFuncToPtr::INIReader::ValueHandler': local function definitions are illegal
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\pch.cpp(3,1): error C2850: 'PCH header file': only allowed at file scope; may not be in a nested construct
+C:\Users\tomad\Documents\GitHub\srvhook-2016\Zone\pch.cpp(5,1): fatal error C1004: unexpected end-of-file found

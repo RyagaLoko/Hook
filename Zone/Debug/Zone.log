@@ -1,0 +1,3 @@
+﻿dllmain.obj : error LNK2019: unresolved external symbol ___std_find_trivial_4@12 referenced in function "struct ItemActionObserve * * __cdecl __std_find_trivial<struct ItemActionObserve *,unsigned int>(struct ItemActionObserve * *,struct ItemActionObserve * *,unsigned int)" (??$__std_find_trivial@PAUItemActionObserve@@I@@YAPAPAUItemActionObserve@@PAPAU0@0I@Z)
+HookScript.obj : error LNK2019: unresolved external symbol _luaL_openselectedlibs referenced in function "public: void __thiscall HookScript::Load(char const *)" (?Load@HookScript@@QAEXPBD@Z)
+C:\Users\tomad\Documents\GitHub\srvhook-2016\BuildV2-Debug\Zone.dll : fatal error LNK1120: 2 unresolved externals
